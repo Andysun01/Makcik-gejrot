@@ -1,2 +1,1 @@
-# Makcik-gejrot
-tugas uas semester 2
+# Proyek Machine learning
